@@ -6,13 +6,13 @@
 
 
 
-[点击这里跳转README.md](https://github.com/louvioc/Unit1Homework/blob/master/README.md)
+[点击这里跳转README.md](https://github.com/louvioc/Unit1Homework/blob/master/work1/README.md)
 
 
 
 
 
-![图片](images/logo.jpg)
+![图片](https://github.com/louvioc/Unit1Homework/tree/master/images)
 
 
 
