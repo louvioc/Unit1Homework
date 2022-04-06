@@ -12,7 +12,7 @@
 
 
 
-![图片](https://github.com/louvioc/Unit1Homework/tree/master/images)
+![图片](../images/logo.jpg)
 
 
 
